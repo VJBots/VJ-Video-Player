@@ -13,4 +13,4 @@ RUN pip3 install -U pip && pip3 install -U -r requirements.txt
 RUN mkdir /VJ-Video-Player
 WORKDIR /VJ-Video-Player
 COPY . /VJ-Video-Player
-CMD ["python", "bot.py"]
+CMD ["python", "bot.py"]gh repo clone VJBots/VJ-FILTER-BOT
